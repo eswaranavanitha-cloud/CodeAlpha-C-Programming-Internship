@@ -1,2 +1,11 @@
-# CodeAlpha-C-Programming-Internship
-CodeAlpha C Programming Internship Projects and Tasks
+# CodeAlpha C Programming Internship
+
+## Task 1: Calculator Program
+
+This program performs:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+Implemented using switch-case in C programming.
